@@ -1,0 +1,45 @@
+body {
+background-color: rgb(177, 108, 108);
+padding: 100px;
+
+}
+
+
+
+h1 
+{color: brown;
+
+    text-align : center;
+    font-size: 70px;
+    margin: 100px;
+}
+
+h2{
+    color: darkred;
+     text-align : center;
+     font-size: 50px;
+     
+}
+
+p{
+
+    color: pink;
+    font-size: 40px;
+     text-align : start;
+     margin: 100px;
+
+}
+li{
+    color: darkred;
+    font-size: 20px;
+}
+
+.box {
+  display: flex;
+  
+
+}
+.box p {
+  margin: 10;
+  font-size: 30px;
+}
