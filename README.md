@@ -24,5 +24,12 @@ This is my journey learning web development.
 - Took user input with prompt()
 - Built a mini to-do app: add tasks and delete tasks dynamically
 
+  
+## Day 5 (Arrays + CSS Targeting)
+- Learned CSS id vs class selectors, and nested selectors
+- Learned arrays: storing multiple values with push()
+- Used array.length to build a live task counter
+- Debugged a leftover test-data bug in the array
+
 ## Goal
 To become a web developer and earn from my skills.
