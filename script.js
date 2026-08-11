@@ -1,5 +1,7 @@
 console.log("Connected!");
 
+let tasks = [];
+
 document.getElementById("myBtn").addEventListener("click", function() {
   let name = prompt("what is your name?");
   alert("HELLO " + name ) ;
@@ -7,7 +9,9 @@ document.getElementById("myBtn").addEventListener("click", function() {
 
 document.getElementById("addBtn").addEventListener("click", function(){
   let task = document.getElementById("taskinput").value;
-  let li = document.createElement("li");
+  tasks.push(task);
+  document.getElementById("taskCount").textContent= "totaltasks : " + tasks.length;
+    let li = document.createElement("li");
   li.textContent = task;
 
 

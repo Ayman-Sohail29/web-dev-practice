@@ -43,3 +43,22 @@ li{
   margin: 10;
   font-size: 20px;
 }
+
+#myBtn{
+  color: palevioletred;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+#addBtn{
+  color: palevioletred ;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#tasklist button{
+  color: palevioletred ;
+  padding: 2px;
+  border-radius: 7px;
+}
