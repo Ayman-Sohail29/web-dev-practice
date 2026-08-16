@@ -6,6 +6,10 @@ let tasks = [];
 
 document.getElementById("addBtn").addEventListener("click", function(){
   let task = document.getElementById("taskinput").value;
+  if (task===""){
+    alert ("please add a task" );
+    return;
+  }
   tasks.push(task);
   document.getElementById("taskCount").textContent= "totaltasks : " + tasks.length;
     let li = document.createElement("li");
