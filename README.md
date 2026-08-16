@@ -31,5 +31,17 @@ This is my journey learning web development.
 - Used array.length to build a live task counter
 - Debugged a leftover test-data bug in the array
 
+  
+## Day 6 (Conditions)
+- Learned if, else if, else statements
+- Learned the difference between = (assign) and === (compare)
+- Added input validation (empty task, too-short task)
+
+
+## Day 7 (Functions)
+- Learned how to write and call functions
+- Learned parameters (passing data into a function)
+- Refactored repeated code into a reusable function
+
 ## Goal
 To become a web developer and earn from my skills.
