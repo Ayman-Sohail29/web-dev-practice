@@ -44,6 +44,11 @@ This is my journey learning web development.
 - Refactored repeated code into a reusable function
 
   
+## Day 8 (Loops)
+- Learned for loops: syntax and how they repeat code
+- Used loops to print array items
+- Learned why variable/array order matters in JS files
+  
 ## Quote Generator Project
 - Built a random quote generator using arrays and DOM manipulation
 - Practiced debugging: naming mismatches, element selection errors
