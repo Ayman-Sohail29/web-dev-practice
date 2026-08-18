@@ -43,5 +43,10 @@ This is my journey learning web development.
 - Learned parameters (passing data into a function)
 - Refactored repeated code into a reusable function
 
+  
+## Quote Generator Project
+- Built a random quote generator using arrays and DOM manipulation
+- Practiced debugging: naming mismatches, element selection errors
+  
 ## Goal
 To become a web developer and earn from my skills.
