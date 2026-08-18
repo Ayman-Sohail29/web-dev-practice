@@ -1,5 +1,7 @@
 console.log("Connected!");
-
+for (let i = 0; i < 5; i++) {
+  console.log("Count: " + i);
+}
 let tasks = [];
 
 function sayhello(){

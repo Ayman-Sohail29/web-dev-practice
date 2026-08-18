@@ -1,5 +1,6 @@
 console.log("Connected!");
 
+
 let quote  = ["DONT BE SAD ALLAH IS WITH US",
      "ALLAH WILL FIX EVERYTHING ",
       "BUT BEAUTY LIES IN PATIENCE ",
@@ -9,6 +10,10 @@ let quote  = ["DONT BE SAD ALLAH IS WITH US",
 
  const quoteBtn = document.getElementById('new-quote-btn');
 quoteBtn.addEventListener('click', function(){
+
+    for (let i = 0; i < quote.length; i++) {   
+  console.log(quote[i]);
+}
 
  let randomindex = Math.floor(Math.random() * quote.length);
 let selectedquote = quote[randomindex];
