@@ -1,0 +1,30 @@
+
+body {
+background-color: rgb(6, 6, 65);
+padding: 100px;
+
+background-image: url("https://i.pinimg.com/736x/51/a0/a3/51a0a343b8e4fd159add92d066f6d738.jpg");
+background-size: cover;
+}
+#weathercard {
+    background-color : rgb(74, 133, 153);
+    padding: 20px;
+    width: 10;
+    border-radius: 100px;
+    text-align: center;
+    
+}
+
+h1 
+{color: black;
+
+    text-align : center;
+    font-size: 45px;
+    margin: 90px;
+}
+#addBtn{
+  color: rgb(41, 104, 175) ;
+  padding: 3px;
+  border-radius: 10px;
+  
+}
