@@ -52,6 +52,21 @@ This is my journey learning web development.
 ## Quote Generator Project
 - Built a random quote generator using arrays and DOM manipulation
 - Practiced debugging: naming mismatches, element selection errors
-  
+  # 🌤️ Dynamic Weather Card App
+
+A simple interactive weather card built on Day 8 of my web development journey. It takes user inputs for city names and temperatures to update the UI dynamically on click.
+
+### 🚀 Features
+* Live DOM manipulation using JavaScript
+* Custom inputs using `.value` and `.textContent`
+* Responsive card layout styled with CSS
+
+### 🛠️ Tech Stack
+* **HTML5**
+* **CSS3**
+* **JavaScript (ES6)**
+
+---
+*Built as part of my 30-day coding challenge.*
 ## Goal
 To become a web developer and earn from my skills.
